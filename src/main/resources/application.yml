@@ -1,0 +1,12 @@
+# 应用服务 WEB 访问端口
+server:
+    address: 127.0.0.1
+    port: 80
+
+mydata:
+    appToken: "appToken"
+    appID: "appID"
+    appSecret: "appSecret"
+
+
+
